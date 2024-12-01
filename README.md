@@ -1,4 +1,4 @@
-# Customer Segmentation using Machine Learning
+# Customer Segmentation 
 
 This repository presents a project focused on **Customer Segmentation**, which aims to group customers based on their purchasing behavior and demographic information. Customer segmentation is a crucial step for businesses to better understand their target audience and improve marketing strategies. By grouping customers into different segments, businesses can tailor their services and products to specific customer needs.
 
